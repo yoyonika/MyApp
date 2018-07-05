@@ -123,7 +123,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         }
         return false;
     }
-
+//to do
     /**
      * Callback received when a permissions request has been completed.
      */
